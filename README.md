@@ -1,6 +1,6 @@
 ### Hola soy👋 Pamela Calderón 😊
    
-🙋‍♀️ #####Sobre mí:
+🙋‍♀️ Sobre mí:
 
  👩 Soy Frond End Developer de Perú 💻
  

@@ -2,7 +2,7 @@
    
 🙋‍♀️ Sobre mí:
 
- 👩 Soy Frond End Developer de Perú 💻
+ 👩 Soy Front End Developer de Perú 💻
  
  🌱 Actualmente estoy aprendiendo angular y react.
  
